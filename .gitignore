@@ -1,1 +1,9 @@
+# Dotnet Output
 obj
+bin
+
+# Local Config
+.vscode
+
+# Music
+Downloads
